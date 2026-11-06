@@ -1,0 +1,15 @@
+Pillow==12.0.0
+httpx==0.28.1
+jsonschema==4.25.0
+numpy==2.3.5
+openai==3.42.0
+scenariogeneration==0.16.7
+pyclothoids==0.2.0
+
+# Only when MODELS uses api: anthropic
+anthropic==2.3.0
+
+# Optional: scripts/data_process and PDF rendering
+PyMuPDF==2.0
+pypdf==6.21.4
+playwright==1.64.1

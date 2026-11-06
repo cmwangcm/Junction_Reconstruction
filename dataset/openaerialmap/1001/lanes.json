@@ -1,0 +1,251 @@
+{
+    "arms": [
+      {
+        "cross_section": [
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "median",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": null
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": null
+          },
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          }
+        ],
+        "arm_id": 1
+      },
+      {
+        "cross_section": [
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "median",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": "S"
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": "SR"
+          },
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          }
+        ],
+        "arm_id": 2
+      },
+      {
+        "cross_section": [
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "median",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": "S"
+          },
+          {
+            "type": "broken_line",
+            "travel": null,
+            "color": "white",
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": "SR"
+          },
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          }
+        ],
+        "arm_id": 3
+      },
+      {
+        "cross_section": [
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "unmarked_line",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "outgoing",
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "median",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "edge",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": null
+          },
+          {
+            "type": "unmarked_line",
+            "travel": null,
+            "arrow": "undefined"
+          },
+          {
+            "type": "lane",
+            "travel": "incoming",
+            "arrow": null
+          },
+          {
+            "type": "boundary",
+            "travel": null,
+            "arrow": "undefined"
+          }
+        ],
+        "arm_id": 4
+      }
+    ],
+    "channelized_features": []
+  }
